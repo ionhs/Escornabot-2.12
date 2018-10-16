@@ -1,0 +1,33 @@
+2 x Motor 28BYJ-48 (sin ULN2003 driver) https://es.aliexpress.com/item/Frees-hipping-5V-4-Phase-Stepper-Step-Motor-Driver-Board-ULN2003-with-drive-Test-Module-Machinery/32706559510.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+2 x Junta tórica 63x57x3mm https://es.aliexpress.com/item/Electronic-Component-Red-O-Ring-62mm-x-56mm-x-3mm-O-Ring-Washer-Seals-Assortment/32371865042.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+1 x Portapilas 4 x Pilas AA https://es.aliexpress.com/item/MOSUNX-Futural-Digital-2-slot-4-x-AA-Battery-Back-To-Back-Holder-Case-Box-With/32804061860.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+4 x Pilas AA
+1 x Cable USB microUSB>>USB
+X x Tornillos M3 de 10mm
+X x Tuercas M3 de 10mm
+1 x Bolas 14mm Smile https://es.aliexpress.com/item/40-pcs-14mm-Mixed-Smiling-Face-Smile-Round-Ball-Spacer-Beads-Plastic-Acrylic-For-DIY-Necklace/32699472196.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+1 x PCB escornabot 2.12
+1 x Diodo Schottky https://es.aliexpress.com/item/1N4007-1N4148-1N5819-1N5399-1N5408-1N5822-FR107-FR207-8-valores-100-piezas-componentes-electr-nicos-paquete/32856981814.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+1 x Arduino NANO Atmega328 https://es.aliexpress.com/item/Nano-V3-ATmega328-CH340G-Micro-USB-Pin-headers-NOT-soldered-Compatible-for-Arduino-Nano-V3-0/32664577152.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+1 x Buzzer 5V https://es.aliexpress.com/item/Free-Shipping-10pcs-Electromagnetic-buzzer-5V-5V-active-buzzer/635190995.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+1 x Interruptor SK-12D07 e SK-12F14 https://es.aliexpress.com/item/Nueva-llegada-10-unids-lote-interruptor-SK12D07VG3-Stents-peque-o-interruptor-de-palanca-3mm-alta-miniatura/32918136229.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+1 x Fusible autoarmable RXEF050 XF050 72v 0.5A https://es.aliexpress.com/item/10-PCSlot-fusible-recuperaci-n-auto-RXEF050-XF050-72-v-0-5A-PPTC/32896526801.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+2 x Tiras de 40 pines machos/hembras https://es.aliexpress.com/item/Promotion-5-PCS-Pack-40-Pin-2-54mm-Single-Row-Straight-Male-Female-Pin-Header-Strip/32598438788.html?spm=a2g0s.9042311.0.0.274263c0ZcdLzn
+1 x ULN2803 https://es.aliexpress.com/item/10pcs-lot-ULN2803APG-ULN2803-DIP-18-Octal-High-Voltage-High-Current-Darlington-Transistor-Arrays/32817793114.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+1 x Zócalo DIP-18 https://es.aliexpress.com/item/10pcs-Round-Hole-18-Pins-2-54MM-DIP-18-PIN-IC-Sockets-Adaptor-Solder-Type-IC/32805504735.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+5 x Pulsadores con botón colores (blanco, negro, rojo, verde y azul) https://es.aliexpress.com/item/100pcs-Plastic-Tactile-Switch-PCB-Tact-Push-Button-Momentary-Switch-4-Pins-5-Color-Button-Cap/32826994795.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+4 x Led diodos 3mm (blanco, rojo, verde y azul) https://es.aliexpress.com/item/500pcs-3-mm-Super-Bright-High-Brightness-5-Colors-Red-Green-Blue-Yellow-White-Mini-Diffused/1936229691.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+2 x Conectores macho XH2.54 de 2 pines https://es.aliexpress.com/item/XH2-54-conector-pin-Header-macho-material-2-54mm-pitch-XH-A-2-P-3-P/32848821355.html?spm=a2g0s.9042311.0.0.274263c0qgaJ47
+2 x Condensadores 100nF
+4 x Resistencia 1K
+8 x Resistencia 10K
+1 x Resistencia 18K
+1 x Resistencia 22K
+1 x Conector 2 pines con tornillo
+1 x Jumper 2 pines 2.54 https://es.aliexpress.com/store/product/100pcs-Pin-Header-Jumper-blocks-Connector-2-54-mm-for-3-1-2-Hard-Disk-Drive/4388017_32907886777.html?spm=a219c.search0104.3.1.26cbe3e7i9sgYG&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_318_319_10891_5727316_10548_10696_10084_10083_10618_452_10304_10307_10820_532_10301_10821_204_10059_10884_10887_100031_320_10103_5727015_5727216_5727515-10891,searchweb201603_2,ppcSwitch_0&algo_expid=f33f6110-872f-45c8-8a75-64a0be329b99-0&algo_pvid=f33f6110-872f-45c8-8a75-64a0be329b99&priceBeautifyAB=0
+
+
+
+
+
+
